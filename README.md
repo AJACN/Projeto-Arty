@@ -1,6 +1,8 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # Projeto Arty
 
+![imagem de capa](/assets/img/readme/artycapa.png)
+
 **Descrição:**
 O Arty é um aplicativo de Eventos Culturais, com a função de facilitar o acesso aos mesmos, possui funcionalidades de cadastro, edição, exclusão e visualização de eventos para que possa ser acessível a todos.
 
